@@ -1,5 +1,5 @@
 # Student_management_system
-The Student Management System has become an essential tool for educational institutions of all sizes, from small primary schools to large universities. In this tutorial, we’ll create such a Student Management System Project in Python using Tkinter and MySQL.
+The Student Management System has become an essential tool for educational institutions of all sizes, from small primary schools to large universities. We’ll create such a Student Management System Project in Python using Tkinter and MySQL.
 
 It will help to manage the following tasks:
 1. Add new data of a student.  
